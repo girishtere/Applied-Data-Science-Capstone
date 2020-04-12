@@ -1,2 +1,2 @@
 # Applied-Data-Science-Capstone
-IBM-Coursera
+offered by IBM through Coursera
